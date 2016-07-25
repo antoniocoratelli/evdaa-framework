@@ -7,7 +7,7 @@ Based on the [*EVDAA* algorithm][3].
 - Extract the zip file to `<some-path>`
 - Add `<some-path>/evdaa-framework/src` to the [MATLAB Search Path][2]
 - Use `help evdaa` or `help <any-evdaa-function>` in MATLAB to show the
-  usage of any functions in the framework.
+  usage of any function in the framework.
 
 ## License
 Copyright (c) 2016, Antonio Coratelli.
