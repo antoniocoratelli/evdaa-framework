@@ -15,7 +15,7 @@ minimizing the maximum load assigned to each agent.
   usage of any function in the framework.
 
 ## License
-Copyright (c) 2016, Antonio Coratelli.
+Copyright (c) 2013, Antonio Coratelli.
 Released under BSD 3-Clause License. See 'LICENSE' file.
 
 > This software includes [GLPKMEX][4] binaries. GLPKMEX is a MATLAB MEX
