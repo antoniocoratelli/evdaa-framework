@@ -2,6 +2,11 @@
 MATLAB framework for distributed load balancing problems simulation.
 Based on the [*EVDAA* algorithm][3].
 
+The algorithm solves a multi-agent assignment problem,
+in which a group of agents has to reach a consensus on an optimal
+distribution of tasks, under communication and assignment constraints,
+minimizing the maximum load assigned to each agent.
+
 ## Install
 - Download the [zip file][1] of the source code
 - Extract the zip file to `<some-path>`
