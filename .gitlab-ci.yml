@@ -1,0 +1,9 @@
+stages:
+- deploy
+
+mirror:
+  image: registry.gitlab.com/antoniocoratelli/docker-builder-as-a-service/ci-mirror
+  stage: deploy
+  script: ci-mirror git@github.com:antoniocoratelli/evdaa-framework.git
+  only:
+  - master
